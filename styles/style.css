@@ -54,7 +54,7 @@ ol {
   margin: 0 30px;
   flex-direction: row;
   align-items:flex-end;
-  inline-size: 1155px;
+  inline-size: 1140px;
   gap:30px;
 }
 
@@ -66,13 +66,13 @@ ol {
 }
 
 .content__details {
-  inline-size:415px;
+  inline-size:399px;
 }
 
 .content__list {
   position: relative;
   overflow-y:auto;
-  inline-size: 100%;
+  width:fit-content;
   block-size: 298px;
 }
 
